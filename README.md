@@ -2,12 +2,16 @@
 
 ![Typing_SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=👩🏻‍💻Full-Stack-Developer;💡UI/UX-Developer;💻Java-Developer)
 
+<hr> </hr>
+
 ### 🔍About
 👋 Hi there! I'm a final-year Mechatronics Engineering student at Jabalpur Engineering College, where I have sharped my skills in the tech field. My academic journey has been a various domains, including:
 
 🔧Digital Circuits, Sensors and Instrumentation, Robotics and Automation, Dynamics of Machine, Digital Signal Processing, Data Communication and Computer Networks
 
 🌐 Apart from my core engineering subjects, I am deeply interested in the tech field, with hands-on experience in full stack MERN web development and Software Development using Java. I have also working on tools like Figma, Adobe Illustrator and Canva.
+
+<hr> </hr>
 
 ### ⚙️Tech Stack
 ### Programming Language
@@ -44,6 +48,8 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 
+<hr> </hr>
+
 ### 📊GitHub Analytics
 <p align="center">
   <a href="https://github.com/KashishRathore/">
@@ -65,18 +71,3 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/api/?username=KashishRathore&theme=tokyonight" alt="Github Trophies"/>
 </p>
-
-<!--
-**KashishRathore/KashishRathore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
