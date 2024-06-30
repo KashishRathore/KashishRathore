@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Kashish Rathore!!!
+
+![Typing_SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=👩🏻‍💻Full-Stack-Developer;UI/UX-Developer;💻Java-Developer)
 
 <!--
 **KashishRathore/KashishRathore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
