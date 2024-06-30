@@ -44,6 +44,27 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 
+### 📊GitHub Analytics
+<p align="center">
+  <a href="https://github.com/KashishRathore/">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KashishRathore&show_icons=true&theme=algolia&include_all_comits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KashishRathore&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KashishRathore/">
+    <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=KashishRathore&cc=333333&tc=ffffff&ic=4B8BDA" alt="Stats"/>
+  </a>
+</p>
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KashishRathore&theme=algolia" alt="Profile Summary Card"/>
+</p>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/api/?username=KashishRathore&theme=tokyonight" alt="Github Trophies"/>
+</p>
 
 <!--
 **KashishRathore/KashishRathore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
