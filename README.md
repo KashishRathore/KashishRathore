@@ -21,6 +21,7 @@
 <a href="https://www.geeksforgeeks.org/user/kashishratinb3/" ><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="geeksforgeeks"></a>
 <a href="https://github.com/KashishRathore/" ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"></a>
 
+<hr> </hr>
 
 ### ⚙️Tech Stack
 ### Programming Language
