@@ -13,6 +13,15 @@
 
 <hr> </hr>
 
+### 🧷Links
+<a href="https://www.linkedin.com/in/kashish-rathore-b67a65237/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+<a href="https://x.com/Kashish30225581" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
+<a href="mailto:kashishrathore0111@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
+<a href="https://leetcode.com/u/Kashish_Rathore01/" ><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"></a>
+<a href="https://www.geeksforgeeks.org/user/kashishratinb3/" ><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="geeksforgeeks"></a>
+<a href="https://github.com/KashishRathore/" ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"></a>
+
+
 ### ⚙️Tech Stack
 ### Programming Language
 ![Java](https://skillicons.dev/icons?i=java)
